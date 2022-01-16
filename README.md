@@ -10,7 +10,7 @@
 - прогрессивное улучшение
 
 ![index](./img/readme-images/index.png)
-![index](./img/readme-images/popaps.png)
-![index](./img/readme-images/catalog.png)
-![index](./img/readme-images/product.png)
-![index](./img/readme-images/price.png)
+![popaps](./img/readme-images/popaps.png)
+![catalog](./img/readme-images/catalog.png)
+![product](./img/readme-images/product.png)
+![price](./img/readme-images/price.png)
