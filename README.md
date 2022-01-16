@@ -1,5 +1,4 @@
 # Barbershop Borodinski
-Учебный проект в рамках курса от **HTML Academy**. (HTML и CSS. Профессиональная вёрстка сайтов)
 
 [Макет проекта в figma](https://www.figma.com/file/Uz3eILWGgNCKybYvNOV3VA/HTML-1-%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D1%80%D1%88%D0%BE%D0%BF?node-id=0%3A1)
 
